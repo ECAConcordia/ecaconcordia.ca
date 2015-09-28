@@ -18,18 +18,9 @@ In order to register for the Iron Ring Ceremony, please come to the ECA office (
  
 ###The office Hours:
 
-<<<<<<< HEAD
-- Monday: 14:00 to 20:00
-- Tuesday: 15:00 to 18:00
-- Wednesday: 10:00 to 12:00
-- Thursday: 10:00 to 12:00 and 13:00 to 16:00
-- Friday: 10:00 to 12:00
-
-=======
 - Tuesday: 10:00 to 16:00
 - Wednesday: 10:00 to 16:00
 - Thrursday: 10:00 to 16:00
->>>>>>> ecaconcordia.ca/master
 
 #### Registration begins: September 17th
 
