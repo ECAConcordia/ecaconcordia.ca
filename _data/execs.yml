@@ -4,7 +4,7 @@ executives:
       email: president@ecaconcordia.ca
       imageUrl: assets/execs/president.png
 
-    - name: Anas Ouandi
+    - name: Anas Ouahdi
       position: VP Finance
       email: finance@ecaconcordia.ca
       imageUrl: assets/execs/VP-Finance.png
@@ -41,7 +41,7 @@ executives:
 
 representaves:
     - name: Amine Mhedhbi
-      position: Eletrical & Computer Engineering Representative
+      position: Electrical & Computer Engineering Representative
 
     - name: Mohamed-Hedi Rais
       position: Mechanical & Industrial Engineering Representative
@@ -50,4 +50,4 @@ representaves:
       position: Computer Science & Software Engineering Representative
 
     - name: Amal Bouanani
-      position: Building, Civil & Evironmental Egineering Representative
+      position: Building, Civil & Environmental Engineering Representative
