@@ -20,7 +20,7 @@ In order to register for the Iron Ring Ceremony, please come to the ECA office (
 
 - Tuesday: 10:00 to 16:00
 - Wednesday: 10:00 to 16:00
-- Thrursday: 10:00 to 16:00
+- Thursday: 10:00 to 16:00
 
 #### Registration begins: September 17th
 
