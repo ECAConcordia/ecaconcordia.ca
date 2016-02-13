@@ -4,7 +4,15 @@ published: true
 ---
 
 
-{% image_set assets/banners --class=img-responsive --container-tag=div --wrap-tag=div  --container-class=homeCarousel --wrap-class=item %}
+{% for banner in site.data.banner.banners %}
+  <div class="homeCarousel">
+    <div class="item">
+      <a target="_blank" href="{{site.url}}/{{banner.link}}">
+        <img src="{{banner.imgUrl}}" />
+      </a>
+    </div>
+  </div>
+{% endfor %}
 
 <div id="description"class="">
   <div class="container">
