@@ -1,3 +1,17 @@
 banners:
-  - imgUrl:  assets/banners/engweek2016-banner.png 
-    link: engweek 
+  - imgUrl:  assets/banners/frosh2k16.png
+    link: http://frosh2k16.ecaconcordia.ca 
+  - imgUrl:  assets/banners/bbq.png
+    link: https://www.facebook.com/events/1252850004748431/
+  - imgUrl:  assets/banners/elite.jpg
+    link: https://www.facebook.com/events/1059155717502900/
+  - imgUrl:  assets/banners/pubCrawl-01-01.png
+    link: https://www.facebook.com/events/584032158436262/
+  - imgUrl:  assets/banners/terrasse.jpg
+    link: https://www.facebook.com/events/294763554221048/
+  - imgUrl:  assets/banners/beach.png
+    link: https://www.facebook.com/events/1079068585503684/
+  - imgUrl:  assets/banners/wine.png
+    link: https://www.facebook.com/events/276451966072384/
+  - imgUrl:  assets/banners/dusted.png
+    link: https://www.facebook.com/events/1273565826017025/

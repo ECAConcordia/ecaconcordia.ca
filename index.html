@@ -4,15 +4,15 @@ published: true
 ---
 
 
-{% for banner in site.data.banner.banners %}
   <div class="homeCarousel">
+    {% for banner in site.data.banner.banners %}
     <div class="item">
-      <a target="_blank" href="{{site.url}}/{{banner.link}}">
-        <img src="{{banner.imgUrl}}" />
+      <a target="_blank" href="{{banner.link}}">
+        <img style="width: 100%;" src="{{banner.imgUrl}}" />
       </a>
     </div>
+    {% endfor %}
   </div>
-{% endfor %}
 
 <div id="description"class="">
   <div class="container">
@@ -36,7 +36,7 @@ published: true
         </div>
         <div class="col-md-4 text-center stats">
           we're composed of <br> <i class="fa fa-sitemap fa-3x"></i><br>
-          <div class="upstudents">16</div> societies
+          <div class="upstudents">17</div> societies
         </div>
         <div class="col-md-4 text-center stats">
           we're at <br> <i class="fa fa-flag-checkered fa-3x"></i><br>
@@ -49,9 +49,6 @@ published: true
         <li class="text-uppercase"><a href="">Quick Links</a></li>
         <li><a href="http://www.concordia.ca/academics/undergraduate/calendar/current/sec71.html">Academic Calendar</a></li>
         <li><a href="https://my.concordia.ca/psp/upprpr9/?cmd=login&languageCd=ENG">Important Dates</a></li>
-        <li><a href="https://psis.concordia.ca/personalschedule/login.asp">Your Schedule</a></li>
-        <li><a href="http://fcms.concordia.ca/fcms/asc002_stud_all.aspx">Course Schedules and Registration</a></li>
-        <li><a href="http://www.concordia.ca/students/graduation/ready-to-graduate.html">Ready to graduate?</a></li>
       </ul> 
     </div>
   </div>

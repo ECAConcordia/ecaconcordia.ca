@@ -10,7 +10,8 @@ $("#sidebar").affix({offset: {top: 100}});
   owl.owlCarousel({
       navigation : false,
       singleItem:true,
-      autoPlay: true
+      lazyLoad : true,
+      autoPlay: 3000
   });
 
 });
