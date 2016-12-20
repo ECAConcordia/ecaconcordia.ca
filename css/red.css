@@ -227,8 +227,14 @@ a[data-toggle=collapse] {
 }
 
 #description {
-    padding: 15px 0;
     background-color: rgba(0, 0, 0, 0.1);
+    background-image: url("/assets/logo2.png");
+    background-repeat: no-repeat;
+     background-attachment: fixed;
+    background-position: 20% 30%; 
+    background-size: 25%;
+    padding: 15px 0;
+    
 }
 
 #description p {
