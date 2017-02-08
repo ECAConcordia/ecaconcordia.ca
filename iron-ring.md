@@ -9,7 +9,7 @@ published: true
 
 
 
-If you are an Engineering student at Concordia University completing ALL your classes in Winter 2016, you are eligible to attend the Iron Ring Ceremony taking place in March 2016. (If you have remaining classes to complete in Summer 2016, you are NOT eligible to attend the March 2016 ceremony)
+If you are an Engineering student at Concordia University completing ALL your classes in Winter 2017, you are eligible to attend the Iron Ring Ceremony taking place in April 2017. 
 
 In order to register for the Iron Ring Ceremony, please come to the ECA office (H-838) with the following information:
 - Name
@@ -19,23 +19,23 @@ In order to register for the Iron Ring Ceremony, please come to the ECA office (
 - Ring Size (we will be able to measure your ring size, so please come in person)
 
 ### The office Hours:
-- Monday: 12:00 - 18:00
-- Tuesday: 10:00 - 11:30 & 14:00 - 18:00
+- Monday: 10:00 - 16:00
+- Tuesday: 10:00 - 16:00
 - Wednesday: 10:00 - 16:00
 - Thursday: 10:00 - 16:00
 - Friday: 10:00 - 14:30
 
-## Registration begins: January 14th
-## Registration ends: January 28th
+## Registration begins: January 22nd
+## Registration ends: February 13th
 
-Please note that January 28th is the FINAL date to register, late registrations will NOT be permitted
+Please note that February 13th is the FINAL date to register, late registrations will NOT be permitted
 
 Once you are registered and we have checked that you meet all the eligibility requirements, we will send you a confirmation email with all required information. 
 
 You can expect to receive this email at the end of February.
 
 ## Ceremony:
-__Date:__: March 19th, 2016
+__Date:__: April 1st, 2017
 
 __Time and Venue:__ You will be informed after your eligibility is confirmed
 
@@ -62,7 +62,7 @@ __Time and Venue:__ You will be informed after your eligibility is confirmed
    ---
     
 ## Cocktail:
-**Date:** March 19th, 2016 - following the ceremony
+**Date:** April 1st, 2017 - following the ceremony
 
 **Time and Venue:** You will be informed after your eligibility is confirmed
 
@@ -78,4 +78,4 @@ __Time and Venue:__ You will be informed after your eligibility is confirmed
 
 	_We’ll email you information on how to get tickets and the cost once your eligibility is confirmed._
 
-Should you need further information, please contact Dilani Abeywickrama on academic@ecaconcordia.ca
+Should you need further information, please contact Abir Fakhreddine on academic@ecaconcordia.ca
