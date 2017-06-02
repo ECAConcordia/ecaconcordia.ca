@@ -5,3 +5,4 @@ downloads/*
 *.zip
 *.pdf
 test.html
+/.idea/

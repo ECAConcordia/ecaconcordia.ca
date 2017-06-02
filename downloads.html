@@ -9,7 +9,7 @@ navbar_desc: find all documents on the ECA
 {% for subpage in site.pages %}
   {% if page.title == subpage.category %}
   <li>
-    <a href="{{ subpage.url | prepend: site.baseurl }}">{{ subpage.title }}</a>
+    <a  href="{{ subpage.url | prepend: site.baseurl }}">{{ subpage.title }}</a>
   </li>
   {% endif %}
 {% endfor %}
